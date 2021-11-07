@@ -1,4 +1,4 @@
-# LaBook
+# Pokemon-Go
 
 ## Install
 
